@@ -1,0 +1,16 @@
+.classComponent{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+.re_icon{
+    font-size: 2rem;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: aqua;
+
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    margin: 5px;
+    padding: 10px;
+  
+}

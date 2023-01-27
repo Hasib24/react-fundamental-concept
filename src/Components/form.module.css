@@ -1,0 +1,19 @@
+
+
+form{
+    border: 1px solid;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+
+.formgroup{
+    margin-bottom: 10px;
+    outline: none;
+}
+.formgroup input{
+    outline: none;
+}
